@@ -4,3 +4,6 @@
 
 layout: home
 ---
+# My first image
+
+![Moana Chicken]({{ "/assets/images/moana-chicken.jpg" | relative_url }})
